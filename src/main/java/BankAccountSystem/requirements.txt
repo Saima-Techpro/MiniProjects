@@ -1,0 +1,14 @@
+Features of the Bank Application:
+
+1. Account Management:
+    a) The bank will manage multiple types of accounts, including Saving Accounts and Current Accounts
+    b) All accounts should have a unique account number and store current balance
+    c) Each account type should be able to deposit money
+    d) Savings Account should be able to earn interest on the balance
+    e) Current Account should allow withdrawals, but only with a certain transaction limit
+
+2. Loan Management:
+    a) The bank offers both personal and business loans
+    b) Customers should be able to take loans and pay back loans
+    c) Both personal and business loan accounts should keep track of the loan balance
+    d) The system should ensure proper management of loan balance based on repayments and new loan amounts
